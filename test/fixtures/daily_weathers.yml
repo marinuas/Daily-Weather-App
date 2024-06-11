@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  date: 2024-06-11
+  temperature_max: 1.5
+  temperature_min: 1.5
+  sunrise: 2024-06-11 14:34:18
+  sunset: 2024-06-11 14:34:18
+
+two:
+  location: MyString
+  date: 2024-06-11
+  temperature_max: 1.5
+  temperature_min: 1.5
+  sunrise: 2024-06-11 14:34:18
+  sunset: 2024-06-11 14:34:18
